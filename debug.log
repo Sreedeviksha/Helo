@@ -1,0 +1,5 @@
+[0515/110639.173:ERROR:process_info.cc(359)] UncheckedAllocate
+[0515/110639.173:ERROR:process_info.cc(359)] UncheckedAllocate
+[0515/110639.243:ERROR:process_info.cc(359)] UncheckedAllocate
+[0515/113706.235:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0515/113706.306:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
